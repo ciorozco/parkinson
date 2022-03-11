@@ -23,3 +23,5 @@ Clasificación
 Entrenamiento
 ![image](https://user-images.githubusercontent.com/27923284/157810595-b20b73cb-3af2-41a8-a1c8-8cbebb416879.png)
 
+Colab
+https://colab.research.google.com/drive/1pXCh03CF3Gk39Xg8h-hztZcnAC6LtIya?usp=sharing
